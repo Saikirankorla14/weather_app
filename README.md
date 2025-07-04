@@ -6,7 +6,7 @@ A sleek and responsive weather application built using React. This app fetches r
 •	🌦️ Weather condition with icons
 •	🧭 City-based search
 •	📱 Responsive UI for desktop and mobile
-🚀 Demo
+####🚀 Demo
 [![Demo Video](demo/screenshot.png)](demo/demo.mp4)
 
 •	React (with Hooks)
