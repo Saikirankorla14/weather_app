@@ -1,4 +1,6 @@
  Weather App
+
+ Production url: https://weather-app-rho-two-56.vercel.app/
 A sleek and responsive weather application built using React. This app fetches real-time weather data from the OpenWeatherMap API and displays key information such as temperature, humidity, weather description, and forecast icons.
 🔍 Features
 •	🌡️ Current temperature
